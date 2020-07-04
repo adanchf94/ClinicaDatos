@@ -2,7 +2,7 @@
 {
     "pacientes": [
         {
-            "identificacion": 111111111,
+            "id": 111111111,
             "nombre": "Adan",
 			"apellido1": "Chavarria",
 			"apellido2": "Fonseca",
@@ -10,7 +10,7 @@
             "password": "123"
         },
         {
-            "identificacion": 222222222,
+            "id": 222222222,
             "nombre": "Ariela",
 			"apellido1": "Fuentes",
 			"apellido2": "Corrales",
@@ -20,19 +20,19 @@
     ],
     "citas": [
         {
-            "idCita": 1,
+            "id": 1,
             "identificacion": 111111111,
 			"especialidad": "Medicina General",
 			"fecha": "10/07/2020"
         },
         {
-            "idCita": 2,
+            "id": 2,
             "identificacion": 111111111,
 			"especialidad": "Odontologia",
 			"fecha": "15/07/2020"
         },
         {
-            "idCita": 1,
+            "id": 1,
             "identificacion": 222222222,
 			"especialidad": "Medicina General",
 			"fecha": "12/07/2020"
