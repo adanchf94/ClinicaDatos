@@ -1,0 +1,41 @@
+
+{
+    "pacientes": [
+        {
+            "identificacion": 111111111,
+            "nombre": "Adan",
+			"apellido1": "Chavarria",
+			"apellido2": "Fonseca",
+            "email": "adanchf94@hotmail.com",
+            "password": "123"
+        },
+        {
+            "identificacion": 222222222,
+            "nombre": "Ariela",
+			"apellido1": "Fuentes",
+			"apellido2": "Corrales",
+            "email": "ariela@hotmail.com",
+            "password": "123"
+        }
+    ],
+    "citas": [
+        {
+            "idCita": 1,
+            "identificacion": 111111111,
+			"especialidad": "Medicina General",
+			"fecha": "10/07/2020"
+        },
+        {
+            "idCita": 2,
+            "identificacion": 111111111,
+			"especialidad": "Odontologia",
+			"fecha": "15/07/2020"
+        },
+        {
+            "idCita": 1,
+            "identificacion": 222222222,
+			"especialidad": "Medicina General",
+			"fecha": "12/07/2020"
+        }
+    ]
+}
