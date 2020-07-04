@@ -1,4 +1,3 @@
-
 {
     "pacientes": [
         {
@@ -6,6 +5,8 @@
             "nombre": "Adan",
 			"apellido1": "Chavarria",
 			"apellido2": "Fonseca",
+			"fechaNacimiento": "1/1/1994",
+			"telefono": "8888-8888",
             "email": "adanchf94@hotmail.com",
             "password": "123"
         },
@@ -14,6 +15,8 @@
             "nombre": "Ariela",
 			"apellido1": "Fuentes",
 			"apellido2": "Corrales",
+			"fechaNacimiento": "2/2/1995",
+			"telefono": "7777-7777",
             "email": "ariela@hotmail.com",
             "password": "123"
         }
