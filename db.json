@@ -1,3 +1,4 @@
+
 {
     "pacientes": [
         {
@@ -26,22 +27,19 @@
             "id": 1,
             "identificacion": 111111111,
 			"especialidad": "Medicina General",
-			"fecha": "10/07/2020",
-		"estado": "true"
+			"fecha": "10/07/2020"
         },
         {
             "id": 2,
             "identificacion": 111111111,
 			"especialidad": "Odontologia",
-			"fecha": "15/07/2020",
-		"estado": "true"
+			"fecha": "15/07/2020"
         },
         {
             "id": 1,
             "identificacion": 222222222,
 			"especialidad": "Medicina General",
-			"fecha": "12/07/2020",
-		"estado": "true"
+			"fecha": "12/07/2020"
         }
     ]
 }
