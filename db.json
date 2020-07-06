@@ -27,7 +27,7 @@
             "identificacion": 111111111,
 			"especialidad": "Medicina General",
 			"fecha": "10/07/2020",
-		estado: true
+		"estado": true
         },
         {
             "id": 2,
