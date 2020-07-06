@@ -34,14 +34,14 @@
             "identificacion": 111111111,
 			"especialidad": "Odontologia",
 			"fecha": "15/07/2020",
-		estado: true
+		"estado": true
         },
         {
             "id": 1,
             "identificacion": 222222222,
 			"especialidad": "Medicina General",
 			"fecha": "12/07/2020",
-		estado: true
+		"estado": true
         }
     ]
 }
